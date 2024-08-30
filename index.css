@@ -45,7 +45,7 @@ header {
 
 #main-dog {
   margin: 1rem;
-  height: 81vh;
+  height: 100vh;
   overflow: hidden;
   display: grid;
   position: relative;
